@@ -1,8 +1,8 @@
-# 🎬 Finnkino Elokuvahakemisto
+## Finnkino Elokuvahakemisto
 
 Tämä on yksinkertainen web-sovellus, joka näyttää Finnkinon elokuvateattereiden näytökset valitun paikan ja päivämäärän mukaan.
 
-## 🔧 Teknologiat
+## Teknologiat
 
 - HTML5  
 - CSS3  
@@ -10,7 +10,7 @@ Tämä on yksinkertainen web-sovellus, joka näyttää Finnkinon elokuvateattere
 - [Finnkino Open API](https://www.finnkino.fi/xml)  
 - Bootstrap 5  
 
-## 🚀 Ominaisuudet
+## Ominaisuudet
 
 - Hakee teatterit automaattisesti Finnkinon XML-rajapinnasta  
 - Päivämäärät päivittyvät valitun teatterin mukaan  
@@ -18,13 +18,14 @@ Tämä on yksinkertainen web-sovellus, joka näyttää Finnkinon elokuvateattere
 - Karusellissa näkyy elokuvan nimi ja näytöksen alkamisaika  
 - Responsiivinen ulkoasu  
 
-## 📖 Käyttö
+## Käyttö
 
 1. Avaa `index.html` selaimessa  
 2. Valitse teatteri ja päivämäärä  
 3. Paina **Etsi Näytökset** — karuselli ilmestyy näkyviin  
 
----
+---commit
+
 
 © 2025 – Luotu harjoitteluprojektina.
 
