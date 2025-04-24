@@ -24,9 +24,7 @@ Tämä on yksinkertainen web-sovellus, joka näyttää Finnkinon elokuvateattere
 2. Valitse teatteri ja päivämäärä  
 3. Paina **Etsi Näytökset** — karuselli ilmestyy näkyviin  
 
----commit
 
-
-© 2025 – Luotu harjoitteluprojektina.
+Copyright (c) 2025 Olga
 
 
